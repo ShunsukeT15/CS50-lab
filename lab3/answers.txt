@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: In the random case, the average time required for sorting is longer than the other two.And it takes less time to sort an array of already sorted numbers than sort3.
+
+sort2 uses: Merge sort
+
+How do you know?: In all cases, the average time it takes to run is shortest in the three method. 　
+
+sort3 uses: Selection sort
+
+How do you know?: Because there are the above two reasons。。
